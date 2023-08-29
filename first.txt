@@ -1,2 +1,6 @@
 Here is my first file
+<<<<<<< HEAD
 Here is a line in the middle.
+=======
+computer science 
+>>>>>>> e794b7a770c95a53eeaa6d4351488d29542eb817
